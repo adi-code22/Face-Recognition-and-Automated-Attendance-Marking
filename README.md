@@ -8,6 +8,7 @@ Applications of this project includes Contactless Authentication, Attendance Mon
 As online classes progress this is a growing need of the tutors to mark honest attendance for every session they take. No better optionb than face recognition. The program scans your face and marks attendance for the particular session
  
 # Watch this
+
 <img align="left" alt="GIF" src="https://github.com/adi-code22/Face-Recognition-and-Automated-Attendance-Marking/blob/master/files/ezgif.com-gif-maker.gif?raw=true"/>  
 
 - The camera opens up with the program and scans the entire surface for faces which are similar to the already trained encoded faces
